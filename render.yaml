@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: jobshield-detector
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && python model.py
+    startCommand: gunicorn backend.app:app
+    envVars:
+      - key: JOBSHIELD_ENV
+        value: production
+      - key: JOBSHIELD_SECRET
+        generateValue: true
