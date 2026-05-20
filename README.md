@@ -1,11 +1,15 @@
 # 🛡️ JobShield — AI-Powered Job & Internship Scam Detector
 
-[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/Prudhvi2206/JobShield)
-
 JobShield (originally **FakeJobPostDetector**) is a modern, multi-layered cybersecurity defense system designed to protect students and entry-level job seekers from fraudulent employment postings. It integrates **Natural Language Processing (NLP)**, **live webpage HTML scraping**, **domain reputation auditing**, and **interactive behavioral risk profiling** into a unified, secure Flask-based web application.
 
 ---
 
+### 🌐 Deployed Live Application
+🚀 **Try the live app on the web:** [https://jobshield-c613.onrender.com/](https://jobshield-c613.onrender.com/)
+
+---
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-blue?style=for-the-badge&logo=render&logoColor=white)](https://jobshield-c613.onrender.com/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-darkgreen.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
