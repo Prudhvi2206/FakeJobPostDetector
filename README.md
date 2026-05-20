@@ -1,6 +1,6 @@
 # 🛡️ JobShield — AI-Powered Job & Internship Scam Detector
 
-[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/Prudhvi2206/FakeJobPostDetector)
+[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/Prudhvi2206/JobShield)
 
 JobShield (originally **FakeJobPostDetector**) is a modern, multi-layered cybersecurity defense system designed to protect students and entry-level job seekers from fraudulent employment postings. It integrates **Natural Language Processing (NLP)**, **live webpage HTML scraping**, **domain reputation auditing**, and **interactive behavioral risk profiling** into a unified, secure Flask-based web application.
 
